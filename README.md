@@ -41,6 +41,8 @@ https://sql-do-jeito-certo.online/
 
 https://desenvolvedor.io/curso/sql-para-desenvolvedores/
 
+o que foi feito no curso de Sql para Desenvolvedores da DevIO: https://anotepad.com/notes/ti6n57p4
+
 https://imasters.com.br/banco-de-dados/sql-server-estudo-de-performance-tuning
 
 https://www.luiztools.com.br/post/11-dicas-de-performance-com-sql-server/
